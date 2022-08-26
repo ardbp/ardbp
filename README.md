@@ -1,7 +1,4 @@
 
-
-
-
 **Hi, I’m Daxesh Panchal(@ardbp).**
 
 
@@ -22,5 +19,7 @@ Professional Skills:
 ardbp/ardbp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Happy to chat and share the ideas about the topics that I am interested in:
 
+[![Gmail Badge](https://img.shields.io/badge/panchaldaxesh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:panchaldaxesh@gmail.com)](mailto:panchaldaxesh@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-DaxeshPanchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daxesh-panchal/)](https://www.linkedin.com/in/daxesh-panchal/)
